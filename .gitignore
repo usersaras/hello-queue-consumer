@@ -103,3 +103,5 @@ dist
 # JS files
 *.js
 *.js.map
+
+.DS_Store
